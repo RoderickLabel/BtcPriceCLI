@@ -18,6 +18,7 @@ Escolha a moeda pelo seu código ISO:
 
 O resultado seria algo parecido com o que segue abaixo:
 
+```
 ----------------------------------------------------------------------
  Moeda    | Máxima   | Venda    | Compra   | Média    | Exchange
 ----------------------------------------------------------------------
@@ -41,3 +42,4 @@ O resultado seria algo parecido com o que segue abaixo:
 ----------------------------------------------------------------------
  USD      | 11576.00 | 11514.00 | 11575.00 | 11562.36 | coinsbitioUSD    
 ----------------------------------------------------------------------
+```
