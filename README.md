@@ -11,6 +11,19 @@ Inicie o app
 $ python3 app.py
 ```
 
+```
+
+                 * Bem vindo a Cotação Bitcoin CLI *                  
+
+É possível realizar a consulta de cotações nas mais diversas moedas, através de seu código ISO 4217.
+
+Segue lista das moedas disponíveis para consulta:
+ * KRW * JPY * NGN * CLP * MYR * IDR * BRL * ILS * USD * VND * ZAR * PLN * AUD * CAD * EUR * GBP * RUB
+
+Digite o código ISO 4217 da moeda na qual deseja verificar a cotação, ex: USD
+>
+```
+
 Escolha a moeda pelo seu código ISO:
 ```
 >USD
